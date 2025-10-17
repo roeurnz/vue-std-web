@@ -1,12 +1,9 @@
 ### 📦 **Dependencies (installed already)**
 
 ```bash
-npm install --save three
-npm install @tresjs/core
-npm install @tresjs/cientos
-npm install motion-vue
-npm install three-mesh-bvh
+npm install vue-router@4
 npm install pinia
+npm i axios
 ```
 
 ---
@@ -14,6 +11,12 @@ npm install pinia
 ### 📦 **Dependencies (not yet installed)**
 
 ```bash
+npm install --save three
+npm install @tresjs/core
+npm install @tresjs/cientos
+npm install motion-vue
+npm install three-mesh-bvh
+
 npm install @auth0/auth0-vue
 npm install @headlessui/vue
 npm install vuedraggable@next
